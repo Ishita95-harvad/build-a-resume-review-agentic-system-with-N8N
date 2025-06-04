@@ -3,7 +3,10 @@
 ## Workflow Image
 Here is a visual representation of the system:
 
-![Workflow Overview](workflow-image.png)
+![Workflow Overview](https://github.com/Ishita95-harvad/build-a-resume-review-agentic-system-with-N8N/blob/main/Create%20a%20workflow%20im.png)
+
+
+
 # Resume Review Agentic System with n8n
 
 ## Description
