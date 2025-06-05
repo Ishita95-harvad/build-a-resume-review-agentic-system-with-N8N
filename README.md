@@ -42,7 +42,7 @@ The workflow includes:
 - Optimization Node: Enhances the resume for better readability and impact.
 - Job Recommendation Node: Maps skills to relevant job postings.
 ### Contributor
-- #### Ishita
+- #### Ishita [Lead Developer]
 
 ### License
 This project is licensed under the MIT License.
