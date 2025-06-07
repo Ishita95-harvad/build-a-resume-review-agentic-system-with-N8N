@@ -10,6 +10,12 @@ Here is a visual representation of the system:
 This project integrates **n8n**, a workflow automation tool, with AI-powered resume analysis. It streamlines the process of reviewing resumes, offering feedback, and recommending job opportunities using an **Agentic System** approach.
 
 
+# Save the updated workflow to a JSON file
+fixed_file_path = "/mnt/data/AI_Resume_Screener_Fixed_Workflow.json"
+Path(fixed_file_path).write_text(json.dumps(updated_workflow, indent=2))
+
+fixed_file_path
+
 
 ## Features
 - **Automated Resume Parsing**: Extracts key details from resumes (PDF, DOCX).
