@@ -9,6 +9,8 @@ Here is a visual representation of the system:
 ## Description
 This project integrates **n8n**, a workflow automation tool, with AI-powered resume analysis. It streamlines the process of reviewing resumes, offering feedback, and recommending job opportunities using an **Agentic System** approach.
 
+
+
 ## Features
 - **Automated Resume Parsing**: Extracts key details from resumes (PDF, DOCX).
 - **AI-Powered Resume Optimization**: Improves formatting, wording, and relevance.
